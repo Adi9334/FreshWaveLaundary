@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814074843325",
+    "project_id": "laundry-app-38179",
+    "storage_bucket": "laundry-app-38179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814074843325:android:8a395ab70cd0bc0f0f27d4",
+        "android_client_info": {
+          "package_name": "com.example.laundry_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPotsZevcMAaCymBK-DBVvAg60q58MH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814074843325:android:d5c5ff7ee6fbd3160f27d4",
+        "android_client_info": {
+          "package_name": "com.freshwavelaundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPotsZevcMAaCymBK-DBVvAg60q58MH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
